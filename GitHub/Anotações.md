@@ -1,7 +1,7 @@
 # Git 
 ## Codigos utilizados 
 
-git clone [link do repositório]
+git clone [link do repositório] <br>
 cd [nome do repositório] 
 git status (visualia status)
 git add . (adiciona todos os arquivos)
