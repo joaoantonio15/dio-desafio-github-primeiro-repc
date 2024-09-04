@@ -1,0 +1,5 @@
+let 
+Variável que pode mudar.
+
+const
+Constante não muda.
