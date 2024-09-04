@@ -1,2 +1,2 @@
-# Desafio de Projeto sobre Git/GitHub da DIO 
-Repositório criado para o Desafio de Projeto.
+# Aulas DIO
+Repositório criado para armazenar os contéudos das aulas assistidas. 
